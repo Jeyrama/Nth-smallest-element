@@ -22,3 +22,5 @@ function nthSmallest(arr, pos) {
 
   return sorted[pos-1];
 }
+
+// or
